@@ -17,7 +17,7 @@ github_username:
 address:
   - line:
   - line:
-  # Feel free to add more lines here 
+  # Feel free to add more lines here
 telephone:
 copyright:
 
@@ -26,3 +26,4 @@ google_api_key:
 
 # Build settings
 markdown: kramdown
+incremental: true
