@@ -1,5 +1,5 @@
 # Site settings
-title: "Team Yagra"
+title: "Yagra.tokyo"
 email:
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -19,7 +19,7 @@ address:
   - line:
   # Feel free to add more lines here
 telephone:
-copyright: "Team Yagra"
+copyright: "Yagra.tokyo"
 
 # API settings
 google_api_key:
