@@ -210,6 +210,11 @@ hr.small {
   margin: 20px 0;
 }
 
+.github-id {
+  color: black;
+  font-weight: bold;
+}
+
 /* About */
 
 .about {
