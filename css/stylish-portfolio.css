@@ -196,6 +196,23 @@ hr.small {
   -o-background-size: cover;
 }
 
+.members {
+  padding: 0;
+  display: "inline-block";
+}
+
+.member {
+  display: inline;
+  margin: 0 100px;
+}
+
+.member-picture {
+  height: 150px;
+  width: 150px;
+  border-radius: 75px;
+  margin: 20px 0;
+}
+
 /* About */
 
 .about {
