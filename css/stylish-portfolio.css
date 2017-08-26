@@ -185,24 +185,20 @@ hr.small {
 /* Members */
 
 .members {
+  margin-top: 100px;
+  text-align: center;
   display: table;
   width: 100%;
   height: 400px;
-  color: #fff;
-  background: url(../img/callout.jpg) no-repeat center center scroll;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  background-size: cover;
-  -o-background-size: cover;
 }
 
-.members {
+.member-list {
   padding: 0;
-  display: "inline-block";
+  color: grey;
 }
 
 .member {
-  display: inline;
+  display: inline-block;
   margin: 0 100px;
 }
 
